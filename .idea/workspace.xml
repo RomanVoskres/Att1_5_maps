@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="145f4d76-f10d-4514-a642-ad3b74a3ff61" name="Changes" comment="Не рабочий, но заполненый.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/program/Main.java" afterDir="false" />
+    <list default="true" id="145f4d76-f10d-4514-a642-ad3b74a3ff61" name="Changes" comment="empty">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bst/avl/AVLTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bst/avl/AVLTreeMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bst/rb/RBTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bst/rb/RBTreeMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interfacemap/MapTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interfacemap/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interfacemap/TreeDemoFrame.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interfacemap/TreeDemoFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my.lib.maps/BSTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my.lib.maps/BSTreeAlgorithms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my.lib.maps/BinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my.lib.maps/BinaryTreeAlgorithms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my.lib.maps/BinaryTreePainter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my.lib.maps/SimpleBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my.lib.maps/TreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my.lib.maps/TreeMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664911179286</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="empty">
+      <created>1664914863875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664914863875</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Не рабочий, но заполненый." />
-    <option name="LAST_COMMIT_MESSAGE" value="Не рабочий, но заполненый." />
+    <MESSAGE value="empty" />
+    <option name="LAST_COMMIT_MESSAGE" value="empty" />
   </component>
 </project>
