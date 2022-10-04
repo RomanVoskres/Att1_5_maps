@@ -2,9 +2,9 @@ package my.lib.maps;
 
 import java.util.function.Function;
 
-public class TreeMap<T> implements BinaryTree<T> {
+public class TreeMap<T>  {
 
-    protected class SimpleTreeNode implements BinaryTree.TreeNode<T> {
+    protected class SimpleTreeNode {
         public T value;
         public SimpleTreeNode left;
         public SimpleTreeNode right;
@@ -19,17 +19,14 @@ public class TreeMap<T> implements BinaryTree<T> {
             this(value, null, null);
         }
 
-        @Override
         public T getValue() {
             return value;
         }
 
-        @Override
         public TreeNode<T> getLeft() {
             return left;
         }
 
-        @Override
         public TreeNode<T> getRight() {
             return right;
         }
@@ -38,8 +35,7 @@ public class TreeMap<T> implements BinaryTree<T> {
     protected SimpleTreeNode root = null;
 
     protected Function<String, T> fromStrFunc;
-
-    @Override
+    
     public TreeNode<T> getRoot() {
         return root;
     }
